@@ -14,7 +14,7 @@ File ini adalah kumpulpulan source code untuk membuat sebuah aplikasi yang digun
 
 Anggota Kelompok Kami:
 1. Margaretha E. Y. (18051204009)
-2. Abastian Dwi Saputra 18051204027)
+2. Abastian Dwi Saputra (18051204027)
 3. M. Rifki Agustian (18051204034)
 
 Sekian dari kelompok kami.
