@@ -1,12 +1,12 @@
 # TUGAS UAS PEMMOB
 
-Assalamu'alaikum Wr.Wb.
+Assalamu'alaikum Wr. Wb.
 
 Perkenalkan Saya:
 
-Nama : Abastian Dwi Saputra
+Nama  : Abastian Dwi Saputra
 
-NIM : 18051204027
+NIM   : 18051204027
 
 Kelas : S1 Teknik Informatika 2018 A
 
@@ -19,4 +19,4 @@ Anggota Kelompok Kami:
 
 Sekian dari kelompok kami.
 
-Wassalamu 'alaikum Wr. Wb.
+Wassalamu'alaikum Wr. Wb.
