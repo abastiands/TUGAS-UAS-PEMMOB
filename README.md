@@ -1,5 +1,7 @@
 # TUGAS UAS PEMMOB
 
+Assalamu'alaikum Wr.Wb.
+
 Perkenalkan Saya:
 
 Nama : Abastian Dwi Saputra
